@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "cmath": "cpp"
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
